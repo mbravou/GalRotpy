@@ -1,0 +1,8 @@
+galpy
+astropy
+emcee
+matplotlib
+ipywidgets
+numpy
+scipy
+pandas
